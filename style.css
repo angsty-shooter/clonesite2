@@ -1,4 +1,6 @@
 .bg-image{
     background-image: url(botw_sword.jpg);
-    height: 50vh;
+    height: 500px;
+    background-size: auto;
+    background-position: center;
 }
